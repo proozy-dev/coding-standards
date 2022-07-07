@@ -1,1 +1,1 @@
-# coding-standards
+# Proozy Coding Standards
